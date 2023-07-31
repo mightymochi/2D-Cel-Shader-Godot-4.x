@@ -6,4 +6,4 @@ This is a basic cel shader to be applied to a Sprite2D. It requires a normal map
 ![Screenshot of a canvasTexture.](https://github.com/mightymochi/2D-Cel-Shader-Godot-4.x/blob/main/canvasTextureNormal.PNG)
 
 ## Light Height
-Lets you adjust the 2D light height per object.
+Lets you adjust the 2D light height per object. This has no effect on Directional light 2d.
